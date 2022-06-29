@@ -1,2 +1,2 @@
-# Duknow
+# Duhknow
 Language learning website game
